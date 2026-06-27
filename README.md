@@ -5,22 +5,10 @@ A modern, premium digital agency website designed to showcase creative services,
 Built with a focus on performance, visual storytelling, and modern frontend practices, Luminary Studio delivers an engaging agency-style web experience with interactive sections, smooth transitions, and a polished UI.
 
 ---
+## 🌐 Live Demo
 
-## Features
-
-* Animated loading screen with GSAP transitions
-* Modern glassmorphism navigation bar
-* Fully responsive design for all devices
-* Interactive hero section with animated visuals
-* Scroll-based animations and counters
-* Services and portfolio showcase sections
-* Client testimonials section
-* Animated FAQ accordion
-* Contact form with validation
-* Smooth back-to-top navigation
-* Optimized Vite development workflow
-
----
+- **Live Website:** https://digital-agency-website-eight.vercel.app
+- **GitHub Repository:** https://github.com/Aleesha1234/digital-agency-website
 
 ## Tech Stack
 
